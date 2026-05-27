@@ -8,15 +8,15 @@ const Footer = () => {
         <p className="flex items-center gap-1 text-sm sm:text-base">
           Made with <FaHeart /> by{" "}
           <a
-            href="https://geeteshdalal.vercel.app"
+            href="https://chaitanyakhurana.vercel.app/"
             target="_blank"
             className="underline"
           >
-            @Geetesh Dalal
+            @chaitanyakhurana
           </a>
         </p>
         <p className="opacity-75 text-xs">
-          Copyright &copy; 2025 ReadmeEasy - All Rights Reserved.
+          Copyright &copy; 2026 ReadmeAI - All Rights Reserved.
         </p>
       </div>
     </footer>
