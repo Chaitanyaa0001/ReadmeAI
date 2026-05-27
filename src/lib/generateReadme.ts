@@ -41,7 +41,7 @@ You are a professional technical writer and open-source README.md expert.
     - Email
     Each on **a new line**
 11. At the end, include this signature:
-> ❤️ This README was written by **ReadmeEasy** for fast and professional documentation.
+> ❤️ This README was written by **ReadmeAI** for fast and professional documentation.
 
 ---
 
@@ -53,7 +53,6 @@ You are a professional technical writer and open-source README.md expert.
 - Installation
   - Steps (bash blocks)
   - Environment Variables (single line placeholder)
-- Screenshots
 - Usage / How it Works
 - Folder Structure (give a sample folder structure)
 - Contributions (numbered list)
